@@ -6,10 +6,6 @@ Currently, my research focuses in the fields of Prognostics and Health Managemen
 
 🚀 I'm interested :
 
-Time Series Forecasting
-Anomaly Detection
-Transfer Learning
-Self-Supervised Learning
-Interpretability
-Uncertainty Quantification
-Data-based diagnostic
+Time Series Forecasting | Anomaly Detection | Transfer Learning | Self-Supervised Learning | Interpretability | Uncertainty Quantification
+
+
