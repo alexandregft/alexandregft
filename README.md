@@ -6,7 +6,7 @@ Currently, my research focuses in the fields of Prognostics and Health Managemen
 
 🚀 I'm interested :
 
-Time Series Forecasting | Anomaly Detection | Transfer Learning | Self-Supervised Learning | Interpretability | Uncertainty Quantification
+Prognosis and Health Manangement|Time Series|Tabular/Structured Data | Anomaly Detection | Transfer Learning | Self-Supervised Learning | Uncertainty Quantification
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alexandre-gaffet-829535150/)
 &nbsp;
